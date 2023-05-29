@@ -1,0 +1,48 @@
+    .h-primary {
+        font-size: 38px;
+    }
+
+    #home p {
+        font-size: 24px;
+    }
+
+    .my-text {
+        width: 100%;
+    }
+
+    .centerImg img {
+        width: 100%;
+    }
+
+    .cardContainer .card .textContainer h4 {
+        font-size: 15px;
+    }
+
+    .textContainer p {
+        font-size: 12px;
+    }
+
+    .textContainer button {
+        font-size: 9px;
+        width: 86px;
+        height: 33px;
+        margin: 5px 10px 0 -5px;
+        padding: 4px;
+    }
+
+    .all-cards-container {
+        display: inline;
+    }
+
+    .container {
+        width: 70vw;
+    }
+
+    .container .input input {
+        width: 60vw;
+    }
+    .gridcontainer .grid {
+
+        grid-template-columns: repeat(2, 1fr);
+    
+    }

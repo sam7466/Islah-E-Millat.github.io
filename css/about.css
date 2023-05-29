@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+.page-header-inner {
+    padding: 1px 0;
+    color: white;
+    background-color: #929191;
+    margin-top: 0px;
+    min-height: 78px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page-header-inner .container {
+    max-width: 1170px;
+    margin: auto;
+    
+}
+.page-header-inner .archive-page-title{
+    /* font-family: 'Courgette', cursive; */
+    text-transform: uppercase;
+}
+.about-section  hr{
+    background-color: #ccc;
+    border: 0;
+    height: 1px;
+    margin-bottom: 1.5em;
+    margin-top: 20px;
+}
+.about-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about-content .inside-about-content{
+    width: 80vw;
+}
+.inside-about-content p{
+    font-family: Roboto, sans-serif;;
+    color: rgb(20, 20, 20);
+    font-weight: 300;
+    line-height: 1.58;
+    margin: 0 0 10px;
+    font-size: 20px;
+}
+.inside-about-content .urduText{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    line-height: 50px;
+}

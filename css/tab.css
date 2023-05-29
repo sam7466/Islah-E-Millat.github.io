@@ -1,0 +1,34 @@
+.h-primary {
+    font-size: 30px;
+}
+
+#home p {
+    font-size: 20px;
+}
+
+.my-text {
+    width: 100%;
+}
+
+.centerImg img {
+    width: 100%;
+}
+
+.mainSurahContainer .gridcontainer .grid {
+
+    grid-template-columns: repeat(1, 1fr);
+
+}
+
+.coreOfIslamContainer p {
+    line-height: 35px;
+    word-wrap: break-word;
+    padding-right: 18px;
+    font-size: 18px;
+    margin: 0 30px 1em 30px;
+    font-family: 'Ubuntu', sans-serif;
+    /* color: white; */
+}
+.ImgNamaz img{
+    width: 100%;
+}

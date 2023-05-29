@@ -1,0 +1,105 @@
+.card {
+    width: 100%;
+}
+
+.quotesHeading h1 {
+    font-size: 1.5rem;
+}
+
+.h-primary {
+    font-size: 25px;
+}
+
+#home p {
+    font-size: 16px;
+}
+
+.my-text {
+    width: 100%;
+}
+
+.centerImg img {
+    width: 100%;
+}
+
+.my-text p {
+    font-size: 15px;
+}
+
+.mainColumn .postHeader h1 {
+    font-size: 18px;
+}
+
+.my-text strong {
+    font-size: 20px;
+}
+
+.mainColumn button {
+    width: 90px;
+    height: 28px;
+    font-size: 12px;
+}
+
+.my-text ol {
+    font-size: 15px;
+}
+
+.first-heading h1 {
+    font-size: 28px;
+}
+
+.container {
+    width: 70vw;
+}
+
+.container .input input {
+    width: 60vw;
+}
+
+.coreOfIslamContainer p {
+    line-height: 35px;
+    word-wrap: break-word;
+    padding-right: 0px;
+    font-size: 15px;
+    margin: 10px 30px 1em 30px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.coreOfIslamContainer img {
+    width: 100%;
+}
+
+.coreOfIslamContainer h1 {
+    font-size: 2rem;
+}
+
+.shahada-content .containttt h2 {
+    font-size: 30px;
+}
+
+#navbar ul li a {
+    padding: 3px 7px;
+}
+
+.page-header-inner .archive-page-title {
+
+    font-size: 20px;
+}
+
+.mainSurahContainer .mianQuranKareenText {
+    height: 38vh;
+}
+
+.mainSurahContainer .mianQuranKareenText img{
+    max-width: 200px;
+}
+.mainSurahContainer .mianQuranKareenText .NobleQuran{
+    font-size: 1.5rem;
+}
+
+.gridcontainer .grid {
+
+    grid-template-columns: repeat(1, 1fr);
+
+}
